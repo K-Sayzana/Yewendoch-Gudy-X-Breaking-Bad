@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(243, 243, 243);
+    font-family: Arial, Helvetica, sans-serif;
+    color: #282828;
+}
+
+header{
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    border: 2px dashed rgb(128, 126, 126);
+    border-radius: 3%;
+}
+h1{
+    color: rgb(44, 102, 211);
+}
+nav {
+    background-color: rgb(150, 218, 245, 0.4);
+    padding: 20px;
+    margin: 10px;
+    border: 2px dashed rgb(128, 126, 126);
+    border-radius: 3%;
+}
+nav ul {
+    color: rgb(44, 102, 211);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 10px;
+}
+
+main {
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    border: 2px dashed rgb(128, 126, 126);
+    border-radius: 3%;
+}
+
+main  article {
+    background-color: rgb(243, 243, 243);
+    padding: 20px;
+    margin: 10px;
+    border: 2px dashed rgb(128, 126, 126);
+    border-radius: 3%;
+}
+
+article h3, article h4 {
+    color: rgb(158, 89, 223);
+}
+
+aside {
+    background-color: rgb(207, 229, 224, 0.6);
+    padding: 20px;
+    margin: 10px;
+    border: 2px dashed rgb(128, 126, 126);
+    border-radius: 3%;
+}
+aside ul{
+    color: rgb(19, 107, 19);
+    text-decoration: underline;
+    line-height: 1.6;
+}
+
+footer {
+    color: white;
+    background-color: rgb(35, 37, 41);
+    padding: 20px;
+    margin: 10px;
+    border: 2px dashed rgb(128, 126, 126);
+    border-radius: 3%; 
+}
