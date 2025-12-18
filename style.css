@@ -45,6 +45,10 @@ main  article {
     border: 2px dashed rgb(128, 126, 126);
     border-radius: 3%;
 }
+#date {
+    color: #666;
+    font-size: 0.9em;
+}
 
 article h3, article h4 {
     color: rgb(158, 89, 223);
